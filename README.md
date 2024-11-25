@@ -1,5 +1,6 @@
 # PortalDeMemes
 
+Relatório:
 
 1. Instalar o Angular;
 2. Configurar o Módulo de Roteamento;
